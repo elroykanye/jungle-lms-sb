@@ -4,5 +4,4 @@ import com.elroykanye.junglelms.business.service.CourseService
 import org.springframework.stereotype.Service
 
 @Service
-class CourseServiceImpl: CourseService {
-}
+class CourseServiceImpl: CourseService

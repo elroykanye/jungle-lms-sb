@@ -4,5 +4,4 @@ import com.elroykanye.junglelms.business.service.FieldService
 import org.springframework.stereotype.Service
 
 @Service
-class InstitutionServiceImpl: FieldService {
-}
+class InstitutionServiceImpl: FieldService

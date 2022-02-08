@@ -4,5 +4,4 @@ import com.elroykanye.junglelms.business.service.UserService
 import org.springframework.stereotype.Service
 
 @Service
-class UserServiceImpl: UserService {
-}
+class UserServiceImpl: UserService
