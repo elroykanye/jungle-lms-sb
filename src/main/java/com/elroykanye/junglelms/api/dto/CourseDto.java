@@ -1,8 +1,14 @@
 package com.elroykanye.junglelms.api.dto;
 
 
-@Getter @Setter
-@NoArgsConstructor
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
+@Builder
 @AllArgsConstructor
 public class CourseDto {
 }
