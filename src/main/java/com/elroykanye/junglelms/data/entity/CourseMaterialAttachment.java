@@ -17,5 +17,5 @@ import javax.persistence.*;
 public class CourseMaterialAttachment {
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
-	 private Long coursematerialattachmentId;
+	private Long coursematerialattachmentId;
 }
